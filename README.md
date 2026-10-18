@@ -67,17 +67,15 @@ I'm a data scientist with an electronics engineering background. I like building
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
 </p>
 
----
+## 🎓 My Journey
 
-## 🎓 Journey
-
-| When | What |
+| Period | Experience |
 |---|---|
-| 2014 – 2018 | 🎓 B.E. Electronics, University of Mumbai (First Prize in Bachelors Project; paper published at CAEE 2018) |
-| 2019 – 2020 | 📈 Data Analyst Intern, Breezeitech Services, Mumbai |
-| 2020 – 2026 | 🇩🇪 M.Sc. Data Science, Universität Potsdam |
-| 2023 – 2026 | 🏭 Data Analyst Student Assistant, Fraunhofer IML, Dortmund |
-| Now | 🚀 Looking for my next role in data science |
+| 2014 – 2018 | 🎓 **B.E. in Electronics Engineering** · University of Mumbai · First Prize in Bachelor's Project; paper published at CAEE 2018 |
+| 2019 – 2020 | 📊 **Data Analyst Intern** · Breezeitech Services, Mumbai |
+| 2020 – 2026 | 🎓 **M.Sc. in Data Science** · Universität Potsdam, Germany |
+| 2023 – 2026 | 🏭 **Data Analyst Student Assistant** · Fraunhofer IML, Dortmund |
+| 2026 – Present | 🚀 **Exploring new opportunities** in Data Science, Data Analytics, and Applied AI |
 
 ---
 ## GitHub Activity
