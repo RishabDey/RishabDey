@@ -74,60 +74,40 @@ class Rishab:
 
 ---
 
-## 📊 GitHub activity
-<!-- ===================== GITHUB STATS ===================== -->
-
-##  GitHub Activity:
-
-<div align="center">
-
-<picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" /> <img height="180em" src="./profile/stats.svg" alt="Alina's GitHub Stats" /> </picture>
-
-  
-
-<picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" /> <img height="180em" src="./profile/top-langs.svg" alt="Alina's Top Languages" /> </picture>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=AlinaImtiaz018&hide_border=true&background=0D1117&ring=22D3EE&fire=c95100&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=fc4242"
-  alt="GitHub Streak Stats"
-/>
-
-</div>
-
-<br/>
-
-
-<!-- ===================== SNAKE ===================== -->
-
-## Contribution Snake:
+## GitHub Activity
 
 <div align="center">
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake animation"
-    src="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" />
+  <img height="180em" src="./profile/stats.svg" alt="Rishab's GitHub Stats" />
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Rishab's Top Languages" />
+</picture>
+
+<br /><br />
+
+<img src="https://streak-stats.demolab.com/?user=RishabDey&hide_border=true&background=0D1117&ring=a855f7&fire=f97316&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=a855f7&sideLabels=C9D1D9&dates=f97316" alt="GitHub Streak Stats" />
 
 </div>
 
-<br/>
----
+<br />
+
+## Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishabDey/Who-is-Rishab-/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RishabDey/Who-is-Rishab-/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/RishabDey/Who-is-Rishab-/output/github-contribution-grid-snake.svg" />
+</picture>
+</div>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/rishab-dey/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
