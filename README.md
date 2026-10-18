@@ -2,9 +2,7 @@
 
 <div align="center">
 
-<a href="https://github.com/RishabDey">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=Data+Scientist+%7C+Data+Analyst;Turning+data+into+dashboards+that+tell+stories;Making+complex+data+easier+to+understand;Explainable+AI+%C2%B7+Time+Series+%C2%B7+LLM+Agents" alt="Typing animation" />
-</a>
+<h1 align="center">Rishab Dey</h1>
 
 <a href="https://github.com/RishabDey">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=Data+Scientist+%7C+Data+Analyst;Turning+data+into+dashboards+that+tell+stories;Making+complex+data+easier+to+understand;Explainable+AI+%C2%B7+Time+Series+%C2%B7+LLM+Agents" alt="Typing animation" />
