@@ -111,9 +111,12 @@ I transform complex data into intelligent solutions, from predictive models and 
 
 ---
 
-### IoT & Other Tools
+<h3> IoT & Other Tools</h3>
 <p>
   <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/PLC-555555?style=for-the-badge&logoColor=white" alt="PLC" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
 </p>
 
 ## 🎓 My Journey
