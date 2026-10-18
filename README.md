@@ -31,9 +31,9 @@ I transform complex data into intelligent solutions, from predictive models and 
 
 ## 💡 What I believe
 
- 🔍 A prediction you can't explain is just a guess with good PR
- 📉 If a spreadsheet is ruining someone's Monday, it's a dashboard waiting to happen
- ⚽ The best way to learn a tool is to point it at something you care about
+🔍 A prediction you can't explain is just a guess with good PR  
+📉 If a spreadsheet is ruining someone's Monday, it's a dashboard waiting to happen  
+⚽ The best way to learn a tool is to point it at something you care about
 
 ---
 
