@@ -168,7 +168,7 @@ I transform complex data into intelligent solutions, from predictive models and 
 <p align="center">
 <a href="https://www.linkedin.com/in/rishab-dey/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://rishabdey.github.io/"><img src="https://img.shields.io/badge/Portfolio-a855f7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.kaggle.com/YOUR-KAGGLE-USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+<a href="https://www.kaggle.com/cr7rishab"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="mailto:rishabdey.cr7@gmail.com"><img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
