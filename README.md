@@ -75,23 +75,58 @@ class Rishab:
 ---
 
 ## 📊 GitHub activity
+<!-- ===================== GITHUB STATS ===================== -->
+
+##  GitHub Activity:
 
 <div align="center">
 
-<a href="https://github.com/RishabDey"><img height="170" src="https://github-readme-stats.vercel.app/api?username=RishabDey&show_icons=true&count_private=true&title_color=a855f7&text_color=f97316&icon_color=444e59&bg_color=000000&hide_border=true" alt="GitHub stats" /></a>
+<picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="./profile/stats.svg" /> <img height="180em" src="./profile/stats.svg" alt="Alina's GitHub Stats" /> </picture>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RishabDey&bg_color=000000&color=f97316&line=a855f7&point=ffffff&area=true&area_color=a855f7&hide_border=true" alt="Activity graph" width="95%" />
+  
 
-<br />
+<picture> <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="./profile/top-langs.svg" /> <img height="180em" src="./profile/top-langs.svg" alt="Alina's Top Languages" /> </picture>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=AlinaImtiaz018&hide_border=true&background=0D1117&ring=22D3EE&fire=c95100&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=22D3EE&sideLabels=C9D1D9&dates=fc4242"
+  alt="GitHub Streak Stats"
+/>
+
+</div>
+
+<br/>
+
+
+<!-- ===================== SNAKE ===================== -->
+
+## Contribution Snake:
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RishabDey/RishabDey/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RishabDey/RishabDey/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/RishabDey/RishabDey/output/github-snake.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake animation"
+    src="https://raw.githubusercontent.com/AlinaImtiaz018/AlinaImtiaz018/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
 </div>
 
+<br/>
 ---
 
 <p align="center">
