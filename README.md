@@ -13,7 +13,7 @@
 
 ## 👋 About me
 
-I'm a data scientist with an electronics engineering background. I like building models that explain themselves, plus the dashboards and apps that make them useful.
+I transform complex data into intelligent solutions, from predictive models and interactive dashboards to AI-powered applications, with a focus on explainable AI and applied machine learning.
 
 |  |  |
 |---|---|
