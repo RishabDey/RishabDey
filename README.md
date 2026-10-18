@@ -33,6 +33,16 @@ I'm a data scientist with an electronics engineering background. I like building
 ✉️ [Email](mailto:rishabdey.cr7@gmail.com) · 🌐 [Portfolio](https://rishabdey.github.io/)
 
 
+---
+
+## 💡 What I believe
+
+- 🔍 A prediction you can't explain is just a guess with good PR
+- 📉 If a spreadsheet is ruining someone's Monday, it's a dashboard waiting to happen
+- ⚽ The best way to learn a tool is to point it at something you care about
+
+---
+
 ## 🧩 Questions I've Answered with Data
 
 | | The question | What I built |
@@ -44,26 +54,8 @@ I'm a data scientist with an electronics engineering background. I like building
 | ⚽ | Who stands out across Europe's top five football leagues? | Processed 33,000+ player records into a PostgreSQL database powering an interactive player statistics and comparison app. |
 | 🎧 | What can 11 years of listening history reveal? | Analysed 150,000 plays using Power BI, 20+ DAX measures, and drill-through reports to explore listening habits over time. |
 
----
 
-## 💡 What I believe
 
-- 🔍 A prediction you can't explain is just a guess with good PR
-- 📉 If a spreadsheet is ruining someone's Monday, it's a dashboard waiting to happen
-- ⚽ The best way to learn a tool is to point it at something you care about
-
----
-
-## 🚀 Featured projects
-
-| Project | What it does |
-|---|---|
-| [**Multi-Agent Research Pipeline**](https://github.com/RishabDey/REPO_NAME_MULTI_AGENT) | Turns a question into a structured report with explicit source attribution |
-| [**Explainable AI for Time Series**](https://github.com/RishabDey/REPO_NAME_THESIS) | CNN-LSTM plus Grad-CAM to find the spectral bands that matter |
-| [**Top 5 Football Leagues Dashboard**](https://github.com/RishabDey/PlayerStatistics_Top5EuropeanFootballLeagues) | Player and league comparisons on scraped FBref data |
-| [**Spotify Listening Analysis**](https://github.com/RishabDey/REPO_NAME_SPOTIFY) | Power BI dashboard with drill-through and quadrant analysis |
-
----
 
 ## 🛠️ Tech stack
 
