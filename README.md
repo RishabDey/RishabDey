@@ -73,7 +73,19 @@ class Rishab:
 </p>
 
 ---
+---
 
+## 🎓 Journey
+
+| When | What |
+|---|---|
+| 2014 – 2018 | 🎓 B.E. Electronics, University of Mumbai (First Prize in Bachelors Project; paper published at CAEE 2018) |
+| 2019 – 2020 | 📈 Data Analyst Intern, Breezeitech Services, Mumbai |
+| 2020 – 2026 | 🇩🇪 M.Sc. Data Science, Universität Potsdam |
+| 2023 – 2026 | 🏭 Data Analyst Student Assistant, Fraunhofer IML, Dortmund |
+| Now | 🚀 Looking for my next role in data science |
+
+---
 ## GitHub Activity
 
 <div align="center">
@@ -115,3 +127,6 @@ class Rishab:
 <a href="https://www.kaggle.com/YOUR-KAGGLE-USERNAME"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
 <a href="mailto:rishabdey.cr7@gmail.com"><img src="https://img.shields.io/badge/Email-f97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+
+
