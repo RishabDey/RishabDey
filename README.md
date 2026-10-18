@@ -16,34 +16,18 @@
 
 ---
 
-## 👋 About Me
+## 👋 About me
 
-```python
-class Rishab:
-    role       = "Data Scientist & Data Analyst"
-    education  = "M.Sc. Data Science"
-    based_in   = "Dortmund, Germany"
-    background = "Electronics engineering → Data Science"
+I'm a data scientist with an electronics engineering background. I like building models that explain themselves, plus the dashboards and apps that make them useful.
 
-    interests  = [
-        "Explainable AI",
-        "Time-series modelling",
-        "Applied AI & LLM agents",
-        "Football analytics"
-    ]
-
-    building   = ["Source-aware AI research agents",
-                  "Interactive data applications"]
-
-    learning   = ["RAG", "MLOps (MLflow, dbt)", "German"]
-
-    toolkit    = ["Python", "SQL", "TensorFlow",
-                  "Pandas", "Streamlit"]
-
-    open_to    = ["Data Scientist", "Data Analyst",
-                  "ML / AI Engineer"]
-```
-
+|  |  |
+|---|---|
+| 🎓 **Education** | M.Sc. Data Science |
+| 📍 **Based in** | Dortmund, Germany |
+| 🔬 **Interests** | Explainable AI · Time-series modelling · LLM agents · Football analytics |
+| 🛠️ **Building** | Source-aware AI research agents, interactive data applications |
+| 🌱 **Learning** | RAG · MLOps (MLflow, dbt) · German |
+| 💼 **Open to** | Data Scientist · Data Analyst · ML / AI Engineer |
 ✉️ [Email](mailto:rishabdey.cr7@gmail.com) · 🌐 [Portfolio](https://rishabdey.github.io/)
 ## 🧩 Questions I've answered with data
 
