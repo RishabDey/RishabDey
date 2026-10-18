@@ -8,13 +8,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=Data+Scientist+%7C+Data+Analyst;I+build+models+that+explain+themselves;Messy+data+in,+clear+answers+out;Explainable+AI+%C2%B7+Time+Series+%C2%B7+LLM+Agents" alt="Typing animation" />
 </a>
 
-<br />
+![Profile Views](https://komarev.com/ghpvc/?username=RishabDey&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000)
 
-<img src="https://komarev.com/ghpvc/?username=RishabDey&color=a855f7&style=for-the-badge&label=PROFILE+VIEWS&labelColor=000000" alt="Profile views" />
-
-</div>
-
----
 
 ## 👋 About me
 
