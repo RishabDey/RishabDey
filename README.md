@@ -28,17 +28,21 @@ I'm a data scientist with an electronics engineering background. I like building
 | 🛠️ **Building** | Source-aware AI research agents, interactive data applications |
 | 🌱 **Learning** | RAG · MLOps (MLflow, dbt) · German |
 | 💼 **Open to** | Data Scientist · Data Analyst · ML / AI Engineer |
-✉️ [Email](mailto:rishabdey.cr7@gmail.com) · 🌐 [Portfolio](https://rishabdey.github.io/)
-## 🧩 Questions I've answered with data
 
-| | The question | The answer |
-|---|---|---|
-| ♻️ | *Can 120 companies stop doing sustainability reports in Excel?* | Yes. One secure dashboard now automates their GHG and KPI calculations across 1,500+ submissions. |
-| 🧠 | *What is a neural network actually looking at?* | Grad-CAM and FusionGrad showed which spectral bands drive the predictions (R² 0.87). |
-| 📡 | *Can a product tell its own story?* | Arduino sensors plus a live Python dashboard track temperature, speed, location and UV for Digital Product Passports. |
-| 🌍 | *Where does Germany's plastic and rubber really go?* | Interactive maps of trade flows that reveal cross-border patterns. |
-| ⚽ | *Who stands out in Europe's top 5 leagues?* | 33,000+ scraped player records in PostgreSQL, behind a comparison app. |
-| 🎧 | *What does 11 years of listening say about me?* | 150,000 plays, 20+ DAX measures and a Power BI story with drill-through. |
+
+✉️ [Email](mailto:rishabdey.cr7@gmail.com) · 🌐 [Portfolio](https://rishabdey.github.io/)
+
+
+## 🧩 Questions I've Answered with Data
+
+| | The question | What I built |
+|:---:|---|---|
+| ♻️ | Can sustainability reporting move beyond Excel? | Built a multi-user dashboard automating GHG and KPI reporting for 120 companies across 1,500+ submissions. |
+| 🧠 | Can we explain what a neural network learns from hyperspectral data? | Applied Grad-CAM and FusionGrad to identify influential spectral bands in a CNN-LSTM model predicting cocoyam moisture content (R² = 0.87). |
+| 📡 | Can a product carry its own data story? | Prototyped a Digital Product Passport using Arduino sensors and a Python dashboard to track temperature, speed, location, and UV. |
+| 🌍 | Where does Germany's plastic and rubber trade flow? | Built interactive geospatial visualisations mapping cross-border trade flows to and from Germany. |
+| ⚽ | Who stands out across Europe's top five football leagues? | Processed 33,000+ player records into a PostgreSQL database powering an interactive player statistics and comparison app. |
+| 🎧 | What can 11 years of listening history reveal? | Analysed 150,000 plays using Power BI, 20+ DAX measures, and drill-through reports to explore listening habits over time. |
 
 ---
 
