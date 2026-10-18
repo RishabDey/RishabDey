@@ -123,7 +123,7 @@ I transform complex data into intelligent solutions, from predictive models and 
 
 | Period | Experience |
 |---|---|
-| 2014 – 2018 | 🎓 **B.E. in Electronics Engineering** · University of Mumbai · First Prize in Bachelor's Project; paper published at CAEE 2018 |
+| 2014 – 2018 | 🎓 **B.E. in Electronics Engineering** · University of Mumbai|
 | 2019 – 2020 | 📊 **Data Analyst Intern** · Breezeitech Services, Mumbai |
 | 2020 – 2026 | 🎓 **M.Sc. in Data Science** · Universität Potsdam, Germany |
 | 2023 – 2026 | 🏭 **Data Analyst Student Assistant** · Fraunhofer IML, Dortmund |
