@@ -51,19 +51,60 @@ I transform complex data into intelligent solutions, from predictive models and 
 
 
 
-## 🛠️ Tech Stack
 
+<h3>💻 Languages & Databases</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,mongodb,matlab,tensorflow,pytorch,git,arduino&perline=5" alt="Python, R, MySQL, PostgreSQL, MongoDB, MATLAB, TensorFlow, PyTorch, Git and Arduino" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,postgres,mongodb,matlab&perline=6" alt="Python, R, MySQL, PostgreSQL, MongoDB, MATLAB" />
 </p>
 
+<h3>📊 Data Analysis & Visualization</h3>
 <p>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logoColor=white" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logoColor=white" alt="Folium" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white" alt="Looker Studio" />
+</p>
+
+<h3>🤖 Machine Learning & Explainable AI</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&perline=2" alt="TensorFlow and PyTorch" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Statsmodels-4051B5?style=for-the-badge&logoColor=white" alt="Statsmodels" />
+  <img src="https://img.shields.io/badge/Explainable%20AI-8A2BE2?style=for-the-badge&logoColor=white" alt="Explainable AI" />
+</p>
+
+<h3>🧠 Generative AI & NLP</h3>
+<p>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logoColor=black" alt="Transformers" />
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge&logoColor=white" alt="Retrieval-Augmented Generation" />
+  <img src="https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+</p>
+
+<h3>⚙️ Data Engineering & Development</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,arduino&perline=3" alt="Git, GitHub, Arduino" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Databricks-EF3E2F?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B8B3B?style=for-the-badge&logoColor=white" alt="BeautifulSoup" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
+
+<h3>🔌 IoT & Other Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/PLC-555555?style=for-the-badge&logoColor=white" alt="PLC" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Adobe Photoshop" />
 </p>
 
 ## 🎓 My Journey
