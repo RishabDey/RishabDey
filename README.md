@@ -2,8 +2,9 @@
 
 <div align="center">
 
-<h1>Rishab Dey</h1>
-
+<h1 align="center">
+  <span style="color:#22D3EE;">Rishab</span> Dey
+</h1>
 
 <a href="https://github.com/RishabDey">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=A855F7&center=true&vCenter=true&width=650&height=45&lines=Data+Scientist+%7C+Data+Analyst;Turning+data+into+dashboards+that+tell+stories;Making+complex+data+easier+to+understand;Explainable+AI+%C2%B7+Time+Series+%C2%B7+LLM+Agents" alt="Typing animation" />
