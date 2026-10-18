@@ -52,13 +52,21 @@ I'm a data scientist with an electronics engineering background. I like building
 
 
 
-## 🛠️ Tech stack
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,mongodb,matlab,tensorflow,pytorch,sklearn,pandas,numpy,hf,powerbi,tableau,git,arduino&perline=8" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=py,r,mysql,postgres,mongodb,matlab,tensorflow,pytorch,git,arduino&perline=5" alt="Python, R, MySQL, PostgreSQL, MongoDB, MATLAB, TensorFlow, PyTorch, Git and Arduino" />
 </p>
 
----
+<p>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</p>
+
 ---
 
 ## 🎓 Journey
