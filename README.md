@@ -16,24 +16,35 @@
 
 ---
 
-## 👋 About me
+## 👋 About Me
 
 ```python
 class Rishab:
-    role      = "Data Scientist (M.Sc.) & Data Analyst"
-    based_in  = "Dortmund, Germany"
-    background = "Electronics engineer turned data person"
-    superpower = "Making black-box models show their work"
-    working_on = ["LLM agents that cite their sources"]
+    role       = "Data Scientist & Data Analyst"
+    education  = "M.Sc. Data Science"
+    based_in   = "Dortmund, Germany"
+    background = "Electronics engineering → Data Science"
+
+    interests  = [
+        "Explainable AI",
+        "Time-series modelling",
+        "Applied AI & LLM agents",
+        "Football analytics"
+    ]
+
+    building   = ["Source-aware AI research agents",
+                  "Interactive data applications"]
+
     learning   = ["RAG", "MLOps (MLflow, dbt)", "German"]
-    ask_me_about = ["explainable AI", "time series", "dashboards", "football analytics"]
-    open_to    = "Data Scientist / Data Analyst roles"
+
+    toolkit    = ["Python", "SQL", "TensorFlow",
+                  "Pandas", "Streamlit"]
+
+    open_to    = ["Data Scientist", "Data Analyst",
+                  "ML / AI Engineer"]
 ```
 
-✉️ [rishabdey.cr7@gmail.com](mailto:rishabdey.cr7@gmail.com) · 🖥️ [rishabdey.github.io](https://rishabdey.github.io/)
-
----
-
+✉️ [Email](mailto:rishabdey.cr7@gmail.com) · 🌐 [Portfolio](https://rishabdey.github.io/)
 ## 🧩 Questions I've answered with data
 
 | | The question | The answer |
